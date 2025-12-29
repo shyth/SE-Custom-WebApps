@@ -1,0 +1,8 @@
+{
+  "name": "Flashiibo Pro Tools",
+  "short_name": "Pro Tools",
+  "theme_color": "#ffea64",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "https://protools.flashiibo.com/"
+}
