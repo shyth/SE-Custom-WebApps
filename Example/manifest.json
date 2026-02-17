@@ -5,6 +5,5 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "minimal-ui",
-  "scope": "/",
-  "start_url": "https://www.example.com"
+  "start_url": "https://www.example.com/"
 }
