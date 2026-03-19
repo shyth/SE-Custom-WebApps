@@ -1,0 +1,120 @@
+{
+    "scope": "https:\/\/classicube.net\/",
+    "name": "ClassiCube Web",
+    "display": "minimal-ui",
+    "short_name": "ClassiCube Web",
+    "start_url": "\/",
+    "description": "ClassiCube Website",
+    "theme_color": "#977dab",
+    "background_color": "#c091d9",
+    "icons": [
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-36x36.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "36x36",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-48x48.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "48x48",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-72x72.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "72x72",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-96x96.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "96x96",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-144x144.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "144x144",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-192x192.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "192x192",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-256x256.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "256x256",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-384x384.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "384x384",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-512x512.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-36x36-masked.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "36x36",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-48x48-masked.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "48x48",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-72x72-masked.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "72x72",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-96x96-masked.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "96x96",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-144x144-masked.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "144x144",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-192x192-masked.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-256x256-masked.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "256x256",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-384x384-masked.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "384x384",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/f.classicube.net\/uploads\/monthly_2025_05\/android-chrome-512x512-masked.png?v=1747574429",
+            "type": "image\/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+}
