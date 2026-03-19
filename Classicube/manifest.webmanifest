@@ -1,9 +1,9 @@
 {
-    "scope": "https://classicube.net/",
+    "scope": "/",
     "name": "ClassiCube Web",
     "display": "minimal-ui",
     "short_name": "ClassiCube Web",
-    "start_url": "/",
+    "start_url": "https://classicube.net/",
     "description": "ClassiCube Website",
     "theme_color": "#977dab",
     "background_color": "#c091d9",
