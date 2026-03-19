@@ -1,5 +1,5 @@
 {
-    "scope": "https://classicube.net/",
+    "scope": "/",
     "name": "ClassiCube Web",
     "display": "minimal-ui",
     "short_name": "ClassiCube Web",
