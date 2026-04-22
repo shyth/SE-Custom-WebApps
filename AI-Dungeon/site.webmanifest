@@ -1,0 +1,14 @@
+{
+    "name": "AI Dungeon",
+    "short_name": "AI Dungeon",
+    "icons": [
+        {
+            "src": "https://aidungeon.com/android-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone"
+}
